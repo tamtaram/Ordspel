@@ -13,5 +13,4 @@ public class WordComparator implements Comparator<String>{
 		if(s1.length() > s2.length()) return 1;
 		return collator.compare(s1, s2);
 	}
-
 }

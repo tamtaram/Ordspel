@@ -28,5 +28,4 @@ public class JLabelFrames extends JPanel {
         add(new JLabel(), BorderLayout.SOUTH);
         add(dude, BorderLayout.CENTER);
     }
-
 }
